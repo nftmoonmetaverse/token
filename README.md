@@ -1,4 +1,4 @@
-# token
+# NTM NFT Moon Metaverse token
 Token (ERC20) NFT Noon Metaverse (NTM)
 /**
  *Submitted for verification at Etherscan.io on 2021-10-12
